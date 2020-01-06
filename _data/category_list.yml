@@ -2,11 +2,11 @@
 
 
 crime:
-  name: Гражданские дела
-  description: Информация по уголовному судопроизводству
-civil:
   name: Уголовные дела
   description: Информация по гражданскому судопроизводству
+civil:
+  name: Гражданские дела
+  description: Информация по уголовному судопроизводству
 customizing-odin:
   name: Customizing Odin
   description: Welcome to Odin, time to get started
