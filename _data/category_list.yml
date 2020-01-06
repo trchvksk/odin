@@ -1,12 +1,12 @@
 #This file defines all the categories you 
 
 
-getting-started:
-  name: Getting Started
-  description: Welcome to Odin, time to get started
-using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
+crime:
+  name: Гражданские дела
+  description: Информация по уголовному судопроизводству
+civil:
+  name: Уголовные дела
+  description: Информация по гражданскому судопроизводству
 customizing-odin:
   name: Customizing Odin
   description: Welcome to Odin, time to get started
