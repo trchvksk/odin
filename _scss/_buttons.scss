@@ -152,12 +152,13 @@
     padding: $control-padding-y-sm $control-padding-x-sm;
   }
 
-  &.btn-lg {
-    font-size: $font-size;
-    height: $control-size-xl;
-    padding: $control-padding-y-lg $control-padding-x-lg;
-  }
-
+  
+  //&.btn-lg {
+  //  font-size: $font-size;
+  //  height: $control-size-xl;
+  //  padding: $control-padding-y-lg $control-padding-x-lg;
+  // }  
+  
   // Button Block
   &.btn-block {
     display: block;
