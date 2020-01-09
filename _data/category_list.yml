@@ -1,6 +1,5 @@
 #This file defines all the categories you 
 
-
 criminal-cases:
   name: Уголовные дела
   description: Защита по уголовным делам на предварительном следствии и при разбирательстве дела в суде.
