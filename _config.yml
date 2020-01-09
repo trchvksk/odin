@@ -9,43 +9,38 @@ use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: Адвокат Тарчевская
-header: Как я могу вам помочь?
+header: Чем я могу вам помочь?
 subheader: Юридические консультации и документы
 
-meta_image: odin-meta.png
-
 # Social Links
-twitter_username: TheTeaGuns
-facebook_page:
-github_username: TeaGuns
+twitter_username: ntarchevskaya
+facebook_page: n.tarchevskaya
 email: advokat@tarchevskaya.ru
-linkedin_page:
-instagram_username: 
-
+instagram_username: n.tarchevskaya
 
 # Navivation
 nav_item_one: WhatsApp
 nav_item_one_link: https://wa.me/79032399085
 
-nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+nav_item_two: Вконтакте
+nav_item_two_link: https://vk.com/n.tarchevskaya
 
 nav_item_three: #
 nav_item_three_link: #
 
-nav_button: Return to Odin Home
-nav_button_link: https://teaguns.github.io/odin/
+nav_button: Напишите мне в Telegram
+nav_button_link: https://t.me/tarchevskaya
 
 # More Help
-help_one_title: Odin Bugs
-help_one_content: If you find any bugs or problems with this theme, please open an issue over on Github.
-help_one_button: Github
-help_one_link: https://github.com/TeaGuns/odin/issues
+help_one_title: Telegram
+help_one_content: Если Вы не нашли то, что искали, свяжитесь со мной через Telegram.
+help_one_button: Написать
+help_one_link: https://t.me/tarchevskaya
 
-help_two_title: Twitter
-help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
-help_two_button: Twitter
-help_two_link: https://twitter.com/theteaguns
+help_two_title: WhatsApp
+help_two_content: Вы можете также написать мне в WhatsApp, если Вам требуется консультация.
+help_two_button: Написать
+help_two_link: https://wa.me/79032399085
 
 # Build settings
 theme: minima
