@@ -1,12 +1,12 @@
 #This file defines all the categories you 
 
 
-crime:
+criminal-cases:
   name: Уголовные дела
-  description: Информация по гражданскому судопроизводству
-civil:
+  description: Защита по уголовным делам на предварительном следствии и при разбирательстве дела в суде.
+civil-cases:
   name: Гражданские дела
-  description: Информация по уголовному судопроизводству
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+  description: Жилищные, трудовые, семейные, наследственные, земельные дела; взыскание долга и другие дела.
+administrative-cases:
+  name: Административные дела
+  description: Защита и представительство по делам об административных правонарушениях в судах и других органах, ведущих административный процесс.
