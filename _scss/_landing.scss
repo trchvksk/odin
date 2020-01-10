@@ -18,7 +18,16 @@
     margin: 0;
     color: $white;
   }
-
+  h5 {
+    color: $gray-color-dark;
+    margin: 20px 0;
+    line-height: 1.5em;
+  }
+  button {
+    margin: 20px 0;
+  }
+      
+}
 .landing-header {
   padding: 60px 0 100px;
   h1, h2 {
