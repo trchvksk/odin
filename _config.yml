@@ -8,7 +8,7 @@ content_type: Адвокат Тарчевская #Define whether this is a know
 use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
-brand_name: Адвокат Тарчевская
+brand_name: Адвокат Тарчевская Н.Е.
 header: Чем я могу вам помочь?
 subheader: Юридические консультации и документы
 
