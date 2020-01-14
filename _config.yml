@@ -1,7 +1,7 @@
 title: Адвокат Тарчевская Наталья Евгеньевна
 description: Оказание квалифицированной юридической помощи с 1994 года.
 baseurl: / # the subpath of your site, e.g. /support
-url: / # the base hostname & protocol for your site, e.g. http://example.com
+url: https://tarchevskaya.ru # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title
 
 content_type: Тарчевская Наталья Евгеньевна #Define whether this is a knowledge base, help center, or something else
