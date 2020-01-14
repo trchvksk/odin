@@ -4,11 +4,48 @@
       {% include nav.html %}
       <header class="container grid-xl landing-header">
         <div class="columns pt-12 pb-8">
-          <div class="column col-11 col-mx-auto text-center">
-                        {% if site.telegram_username == null %}
+           <div class="footer-social my-4">
+            {% if site.telegram_username == null %}
             {% else %}
             <a href="https://tg.me/{{site.telegram_username}}" target="_blank"><i class='uil uil-telegram'></i></a>
             {% endif %}
+          
+            {% if site.twitter_username == null %}
+            {% else %}
+            <a href="https://www.twitter.com/{{ site.twitter_username }}" target="_blank"><i class='uil uil-twitter'></i></a>
+            {% endif %}
+
+            {% if site.github_username == null %}
+            {% else %}
+            <a href="https://github.com/{{ site.github_username }}" target="_blank"><i class='uil uil-github'></i></a>
+            {% endif %}
+
+            {% if site.linkedin_page == null %}
+            {% else %}
+            <a href="{{ site.linkedin_page}}"><i class='uil uil-linkedin' target="_blank"></i></a>
+            {% endif %}
+
+            {% if site.facebook_page == null %}
+            {% else %}
+            <a href="{{ site.facebook_page}}"><i class='uil uil-facebook' target="_blank"></i></a>
+            {% endif %}
+
+            {% if site.email == null %}
+            {% else %}
+            <a href="mailto:{{ site.email }}"><i class='uil uil-envelope' target="_blank"></i></a>
+            {% endif %}
+
+            {% if site.instagram_username == null %}
+            {% else %}
+            <a href="https://instagram.com/{{site.instagram_username}}" target="_blank"><i class='uil uil-instagram'></i></a>
+            {% endif %}
+                    
+            {% if site.vk_username == null %}
+            {% else %}
+            <a href="https://vk.com/{{site.vk_username}}" target="_blank"><i class='uil uil-vk'></i></a>
+            {% endif %}
+          </div>
+          <div class="column col-11 col-mx-auto text-center">
             <img style="max-width: 14em; margin-top: -6em;" src="/odin/assets/portrait.png">
             <h1 class="mt-2 super-h1">{{ site.header }}</h1>
             <h4 class="text-secondary">{{ site.subheader }}</h4>
